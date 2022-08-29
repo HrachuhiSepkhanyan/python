@@ -17,4 +17,4 @@ for item in items:
     print(titles,"aaaaa")
     print(links)
 
-sg.Window(title="Business", layout=[[sg.Text("There will be title of  business news")]], margins=(100, 50)).read()
+sg.Window(title="Business", layout=[[sg.Text("There will be title of  business news")]], margins=(200, 100)).read()

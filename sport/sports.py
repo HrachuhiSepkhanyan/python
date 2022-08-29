@@ -19,4 +19,4 @@ for item in items:
     print(links)
 
     
-sg.Window(title="Sport", layout=[[sg.Text("There will be title of sport news")]], margins=(100, 50)).read()
+sg.Window(title="Sport", layout=[[sg.Text("There will be title of sport news")]], margins=(200, 100)).read()

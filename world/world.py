@@ -18,4 +18,4 @@ for item in items:
     links=soup.select("item > link")
     
     
-sg.Window(title="World", layout=[[sg.Text("there will be title of  general news")]], margins=(100, 50)).read()
+sg.Window(title="World", layout=[[sg.Text("there will be title of  general news")]], margins=(200, 100)).read()
